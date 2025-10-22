@@ -65,6 +65,7 @@ A **NestJS backend API** for a food ordering system with email OTP login, JWT au
    cd <project-folder>
 
  ##  **Setup**
+  ```bash
    npm install
    Create a .env file in the root directory
    Make Prisma on root - npx prisma init
